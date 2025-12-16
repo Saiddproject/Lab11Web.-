@@ -1,6 +1,6 @@
 </main> </div> <footer class="footer-modern">
         <div class="footer-content">
-            <p>&copy; 2025 - <strong>Universitas Pelita Bangsa</strong>. All rights reserved.</p>
+            <p>&copy; 2025 - <strong>Universitas Pelita Bangsa</strong>. Muhammad Said Abimanyu.</p>
             <div class="footer-subtext">
                 <span>Pemrograman Web</span>
                 <span class="divider">|</span>
@@ -55,4 +55,5 @@
         .divider { margin: 0 8px; color: #7f8c8d; }
     </style>
 </body>
+
 </html>
